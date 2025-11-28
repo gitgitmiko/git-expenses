@@ -1,0 +1,17 @@
+## Template untuk local.properties
+## Copy file ini menjadi local.properties dan sesuaikan path SDK Anda
+
+# Windows
+# sdk.dir=C\:\\Users\\YourUsername\\AppData\\Local\\Android\\Sdk
+
+# Mac
+# sdk.dir=/Users/YourUsername/Library/Android/sdk
+
+# Linux
+# sdk.dir=/home/YourUsername/Android/Sdk
+
+## Catatan:
+## - Ganti YourUsername dengan username Anda
+## - Jika tidak punya Android SDK, download dari: https://developer.android.com/studio#command-tools
+## - Atau install Android Studio minimal untuk mendapatkan SDK
+
